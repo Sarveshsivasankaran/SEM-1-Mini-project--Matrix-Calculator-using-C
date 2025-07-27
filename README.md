@@ -78,4 +78,4 @@ gcc mainf.c -o SEM-1-Mini-project--Matrix-Calculator-using-C
 📬 Contact
 Developer: Sarvesh Sivasankaran
 📧 sarveshsivasankaran@gmail.com
-🔗 LinkedIn www.linkedin.com/in/sarvesh-sivasankaran
+🔗 LinkedIn https://www.linkedin.com/in/sarvesh-sivasankaran/
